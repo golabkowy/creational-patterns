@@ -1,0 +1,4 @@
+#ignore IntelliJ specific files
+.idea/
+#ignore IntelliJ configuration file
+creational-patterns.iml
